@@ -7,7 +7,7 @@ const App = () => {
     <div className="container">
       <div className="calculator">
         <form action="">
-          <div>
+          <div className="display">
             <input type="text"/>
           </div>
           <div>
@@ -33,6 +33,11 @@ const App = () => {
             <input type="button" value="2"/>
             <input type="button" value="1"/>
             <input type="button" value="-"/>
+          </div>
+          <div>
+            <input type="button" value="00"/>
+            <input type="button" value="0"/>
+            <input type="button" value="=" className="equal"/>
           </div>
        </form> 
       </div>
