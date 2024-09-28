@@ -1,6 +1,6 @@
 # Calculator
 
-fully functinal Calculator
+fully functional Calculator
 
 ## Discription 
 
